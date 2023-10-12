@@ -7,7 +7,7 @@ import mysql.connector
 connection = mysql.connector.connect(
     host='localhost',
     user="root",
-    password="bwell@123",
+    password="xxxx",
     database="corona_db"
 )
 # A cursor acts as a pointer or iterator to the records returned by a SELECT statement,enabling you to fetch and process
